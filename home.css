@@ -1,0 +1,16 @@
+.gift{
+    border-bottom: 1px solid black;
+    padding-bottom: 50px;
+}
+.room{
+    color: salmon ;
+}
+.turbo{
+    gap: 30px;
+}
+.round{
+    justify-content: space-between;
+}
+.turn{
+    color: tomato;
+}
